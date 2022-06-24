@@ -1,0 +1,9 @@
+{
+  "name": "push-datasets",
+  "version": "1.0.0",
+  "description": "Simplify pushing details from repostory",
+  "main": "datasets.js",
+  "dependencies": {
+    "config": "^3.3.7"
+  }
+}
